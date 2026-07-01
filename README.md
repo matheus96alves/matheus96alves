@@ -37,9 +37,9 @@ Actualmente busco oportunidades para seguir desarrollándome profesionalmente en
 
 Proyecto de automatización de pruebas utilizando:
 
-- Python
-- Selenium WebDriver
-- Pytest
+- Python (nivel junior)
+- Selenium WebDriver (nivel junior)
+- Pytest (nivel junior)
 
 ---
 
@@ -70,9 +70,9 @@ Elaboración de:
 Experiencia en:
 
 - Testing Manual
-- Automatización de pruebas (nivel júnior)
-- Selenium (nivel júnior)
-- Python (nivel júnior)
+- Automatización de pruebas (nivel junior)
+- Selenium (nivel junior)
+- Python (nivel junior)
 - SQL
 - Git y GitHub
 - Testing de APIs
