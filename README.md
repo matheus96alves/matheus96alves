@@ -67,12 +67,12 @@ Elaboración de:
 
 **Bootcamp de Quality Assurance**
 
-Especialización en:
+Experiencia en:
 
 - Testing Manual
-- Automatización de pruebas
-- Selenium
-- Python
+- Automatización de pruebas (nivel júnior)
+- Selenium (nivel júnior)
+- Python (nivel júnior)
 - SQL
 - Git y GitHub
 - Testing de APIs
