@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Analista QA Junior** especializado en **pruebas manuales** y **automatización de pruebas**.
+Soy **Analista QA Junior** con experiencia en **pruebas manuales** y **automatización de pruebas**.
 
 Recientemente completé un **Bootcamp de Quality Assurance**, donde adquirí experiencia en:
 
